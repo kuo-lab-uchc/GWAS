@@ -1,4 +1,4 @@
-# GWAS
+# UK Biobank Proteomic Aging GWAS
 1. UK Biobank genetically determined Europeans after exlucding those with poor-quality genotype data (n=43,707)
 2. Missing proteins imputed uising the k-nearest neightbors approach (k=10)
 3. PAC, HPS, and a second-generation brain-specific clock developed to predict mortaility were derived following the references below.
