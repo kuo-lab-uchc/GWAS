@@ -6,3 +6,10 @@ a) Kuo CL, Chen Z, Liu P, Pilling LC, Atkins JL, Fortinsky RH, Kuchel GA, Diniz 
 b) Kuo CL, Liu P, Drouard G, Vuoksimaa E, Kaprio J, Ollikainen M, Chen Z, Pilling LC, Atkins JL, Fortinsky RH, Kuchel GA, Diniz BS. A proteomic signature of healthspan. medRxiv [Preprint]. 2025 Jan 28:2024.06.26.24309530. doi: 10.1101/2024.06.26.24309530. PMID: 38978645; PMCID: PMC11230312.
 c) Goeminne LJE, Vladimirova A, Eames A, Tyshkovskiy A, Argentieri MA, Ying K, Moqri M, Gladyshev VN. Plasma protein-based organ-specific aging and mortality models unveil diseases as accelerated aging of organismal systems. Cell Metab. 2025 Jan 7;37(1):205-222.e6. doi: 10.1016/j.cmet.2024.10.005. Epub 2024 Nov 1. PMID: 39488213.
 5. GWAS performed using REGENIE adjusting for age, sex, age*sex, age^2*sex, genotyping arrary type, baseline assessment center, top 20 genetic principal components
+6. Download
+a) PAC
+https://drive.google.com/file/d/1GicYeBGjtdAUyOXm0U5MD-JdG40325_m/view?usp=drive_link
+b) HPS
+https://drive.google.com/file/d/1Us6a3eqJbXwRTuNGW5txTUaeuHfPOXco/view?usp=drive_link
+c) 2nd-generation brain-specific proteomic clock
+https://drive.google.com/file/d/1nfSfjNtm_RFB0o2FKuPJqIRIWrOZ-F0V/view?usp=drive_link
