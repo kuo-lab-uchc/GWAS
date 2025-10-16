@@ -9,7 +9,7 @@
 
    c) Goeminne LJE, Vladimirova A, Eames A, Tyshkovskiy A, Argentieri MA, Ying K, Moqri M, Gladyshev VN. Plasma protein-based organ-specific aging and mortality models unveil diseases as accelerated aging of organismal systems. Cell Metab. 2025 Jan 7;37(1):205-222.e6. doi: 10.1016/j.cmet.2024.10.005. Epub 2024 Nov 1. PMID: 39488213.
   
-6. GWAS performed using REGENIE adjusting for age, sex, age*sex, age^2*sex, genotyping arrary type, baseline assessment center, top 20 genetic principal components
+6. GWAS performed for PAC, HPS, and brain-specific proteomic aging clock after the inverse normal transformation in REGENIE adjusting for age, sex, age*sex, age^2*sex, genotyping arrary type, baseline assessment center, top 20 genetic principal components
 7. Download
 
    a) PAC
