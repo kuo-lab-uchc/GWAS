@@ -13,10 +13,8 @@
 7. Download
 
    a) PAC
-   https://drive.google.com/file/d/1GicYeBGjtdAUyOXm0U5MD-JdG40325_m/view?usp=drive_link
-
+   https://drive.google.com/file/d/1suzbXP_Z_lds-VQcjInS-_KakrQBz6aO/view?usp=drive_link
    b) HPS
-   https://drive.google.com/file/d/1Us6a3eqJbXwRTuNGW5txTUaeuHfPOXco/view?usp=drive_link
-
+   https://drive.google.com/file/d/1gqMPI8E_ZYV2uaF88bjcvOAnwjmChq3n/view?usp=drive_link
    c) 2nd-generation brain-specific proteomic clock
-   https://drive.google.com/file/d/1nfSfjNtm_RFB0o2FKuPJqIRIWrOZ-F0V/view?usp=drive_link
+   https://drive.google.com/file/d/1o07WnjR1AhEc5PmzSvyXbK-XO_q3JEg5/view?usp=drive_link
